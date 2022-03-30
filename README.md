@@ -1,4 +1,4 @@
-# Rapor Part For The Practical Test 
+# Report Part For The Practical Test 
 
 I am able to get
 - Username
