@@ -18,4 +18,13 @@ For the analysis part. I don't have the information for the tweets. That is the 
 
 
 
+Some Examples of the users.
+
+{'Username': '@rioferdy5', 'Displayed': 'Dr Rio Ferdinand', 'Description': 'Official Twitter Account of Rio Ferdinand / Media & Commercial Enquiries - Info@neweraltd.co.uk / \n@_Jmallen', 'Location': 'www.neweraglobalsports.com', 'Number of Followers': '11.3M Followers', 'Number of Following': '696 Following', 'Birthday': 'Joined June 2010', 'Joined Time': 'No Join Date Information', 'Website': '@_Jmallen', 'L50_favorites': 'No Info', 'L50_retweets': 'No Info', 'L50_replies': 'No Info'}
+{'Username': '@UnitedStandMUFC', 'Displayed': 'The United Stand', 'Description': 'Manchester United Fan Channel (Unofficial) For The Global Fanbase! http://YouTube.com/theunitedstand | Enquiries Soccerboxtv@gmail.com | Latest News \n@NewsUnitedStand', 'Location': 'United Kingdom', 'Number of Followers': '1M Followers', 'Number of Following': '674 Following', 'Birthday': 'Joined July 2014', 'Joined Time': 'No Join Date Information', 'Website': 'http://YouTube.com/theunitedstand', 'L50_favorites': 'No Info', 'L50_retweets': 'No Info', 'L50_replies': 'No Info'}
+{'Username': '@RodrygoGoes', 'Displayed': 'Rodrygo Goes', 'Description': 'Atleta do \n@realmadrid\n e da \n@cbf_futebol\n , revelado pelo \n@santosfc\n.  rodrygo@letsvanquish.com', 'Location': 'Madrid, Spain', 'Number of Followers': '1.1M Followers', 'Number of Following': '369 Following', 'Birthday': 'Joined January 2017', 'Joined Time': 'No Join Date Information', 'Website': '@realmadrid', 'L50_favorites': 'No Info', 'L50_retweets': 'No Info', 'L50_replies': 'No Info'}
+{'Username': '@WayneRooney', 'Displayed': 'Wayne Rooney', 'Description': '@dcfcofficial\n | http://instagram.com/WayneRooney | \n@foundationwr\n | \n@triplessports', 'Location': 'Joined April 2011', 'Number of Followers': '17.2M Followers', 'Number of Following': '530 Following', 'Birthday': 'No Birth Information', 'Joined Time': 'No Join Date Information', 'Website': '@dcfcofficial', 'L50_favorites': 'No Info', 'L50_retweets': 'No Info', 'L50_replies': 'No Info'}
+
+
+
 
